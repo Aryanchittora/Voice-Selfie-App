@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to left bottom, lightsteelblue, lightskyblue, skyblue, steelblue);
+}
+img {
+    width: 200px;
+    height: 100px;
+    border-radius: 15px;
+}
+#camera {
+    width: 320px;
+    padding-right: 5px;
+    border: 2px black solid;
+}
